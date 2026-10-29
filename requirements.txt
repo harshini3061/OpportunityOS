@@ -1,0 +1,3 @@
+streamlit>=1.35
+mysql-connector-python>=8.4
+pandas>=2.0
